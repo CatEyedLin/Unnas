@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: NONE
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[All public realses on github](https://github.com/CatEyedLin/Unnas/releases/).
 
 There should be whitespace between paragraphs.
 
