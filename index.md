@@ -1,10 +1,12 @@
 ---
-layout: NONE
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [All public realses on github](https://github.com/CatEyedLin/Unnas/releases/).
+
+[Report an issue](https://github.com/CatEyedLin/Unnas/issues).
 
 There should be whitespace between paragraphs.
 
